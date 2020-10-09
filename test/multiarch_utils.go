@@ -118,7 +118,6 @@ func initExcludedTests() sets.String {
 			"TestExamples/v1alpha1/taskruns/step-by-digest",
 			"TestExamples/v1alpha1/taskruns/gcs-resource",
 			"TestExamples/v1beta1/taskruns/gcs-resource",
-			"TestExamples/v1beta1/taskruns/authenticating-git-commands",
 			"TestExamples/v1beta1/pipelineruns/pipelinerun-with-final-tasks",
 			"TestExamples/v1beta1/taskruns/pullrequest_input_copystep_output",
 			"TestExamples/v1alpha1/taskruns/pullrequest_input_copystep_output",
